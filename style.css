@@ -1,0 +1,118 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+}
+.left_head{
+    width: 50%;
+    background-color: rgb(219, 217, 213);
+    
+}
+.left_head img{
+    height: 150px;
+    width: 200px;
+    /* border-radius: 50%; */
+    align-items: center;
+    margin: 20px;
+}
+.left_head h1{
+    font-size: 24px;
+    text-transform: capitalize;
+    color: rgb(168, 65, 51);
+}
+.left_head p{
+    font-size: 20px;
+
+}
+.left_head ul li{
+    margin-left: 2px;
+}
+.cont{
+    margin:10px;
+    padding: 5px;
+    background-color: rgb(208, 223, 230);
+    margin: 5px;
+
+}
+.cont h4,h1,h2{
+text-transform: capitalize;
+font-size: 22px;
+color: brown;
+}
+.lang ul li{
+margin: 10px;
+}
+.hob ul li{
+    margin: 10px;
+    }
+.right_head{
+    box-sizing: border-box;
+    background-color: white;
+    margin-left: 5px;
+}
+.right_head h1{
+    text-transform: capitalize;
+    font-size: 25px;
+    color: brown;
+}
+.right_head p{
+    font-size: 19px;
+}
+.skill h1{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+.skill ul li{
+    list-style-type: disc;
+    margin: 5px;
+    margin-left:20px ;
+    font-weight: 600;
+}
+.exper h1{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+.exper h4,h5{
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.exper ul li{
+    list-style-type: disc;
+    margin: 5px;
+    margin-left:20px ;
+    font-weight: 300;
+}
+.educ h1{
+    text-align: center;
+    margin-top: 11px;
+    padding: 5px;
+text-transform: capitalize;
+}
+.educ p{
+    margin: 15px;
+    padding: 6px;
+}
+.cert h1{
+    text-align: center;
+    margin-top: 10px;
+    text-transform: capitalize;
+
+}
+footer{
+    background-color: grey;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    height: 50px;
+    padding-top: 9px;
+}
+
+
+
+
